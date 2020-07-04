@@ -1,3 +1,4 @@
+//Will copy paste for sake of brevity
 class Person {
   String firstname;
   String lastname;
